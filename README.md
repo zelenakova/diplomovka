@@ -8,6 +8,7 @@ Anotácia: Modelovanie prírodných a spoločenských javov hrá od 80-tych rok
 
 Cieľ: Cieľom práce bude charakterizovať agentovo orientované modelovanie vo vzdelávacom kontexte, preskúmať niektoré jestvujúce prostredia a podobné prostredie s podporou masívnych paralelných procesov aj experimentálne implementovať. Ďalej navrhnúť z dôvodov overenia tohto prostredia vzdelávací obsah na 2 alebo 3 vyučovacie hodiny na SŠ a realizovať ich v reálnej školskej situácii. Zhodnotiť priebeh hodín, prácu žiakov, správanie svojho softvérového prostredia a vhodnosť pripraveného obsahu. Analyzovať, ako prípadne ďalej prostredie upraviť alebo rozšíriť.
 
+
 Plán práce
 
 Hotové
